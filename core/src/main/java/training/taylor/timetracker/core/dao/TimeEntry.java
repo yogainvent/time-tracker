@@ -30,7 +30,7 @@ public class TimeEntry {
     }
 
     public int getTime() {
-        return time;
+        
     }
 
     public void setTime(int value) {
